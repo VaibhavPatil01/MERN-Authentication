@@ -6,6 +6,8 @@ import person_icon from "./person_icon.svg";
 import hand_wave from "./hand_wave.png";
 import header_img from "./header_img.png";
 import mylogo from "./favicon.png";
+import robo from "./robo.gif";
+import robo1 from "./robo1.lottie";
 
 export const assets = {
   arrow_icon,
@@ -16,4 +18,6 @@ export const assets = {
   hand_wave,
   header_img,
   mylogo,
+  robo,
+  robo1,
 };
