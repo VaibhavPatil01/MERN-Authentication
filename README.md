@@ -55,7 +55,7 @@ The system follows best practices for security and scalability, making it suitab
 ## Demo
 
 You can view the live demo of the project here:  
-[Live Demo](https://interview-experience-gsmcoe.vercel.app/)
+[Live Demo](https://mern-authentication-bqxk.vercel.app)
 
 ## Screenshots
 
