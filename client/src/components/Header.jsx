@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <div className="flex flex-col items-center mt-20 px-4 text-center text-gray-800">
       <DotLottieReact
-        src={assets.robo1}
+        src={assets.robo}
         loop
         autoplay
         className="w-90  rounded-full mb-6"
